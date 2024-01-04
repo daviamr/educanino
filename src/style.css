@@ -27,9 +27,13 @@ body {
 }
 
 /* header */
+header {
+    text-align: center;
+}
+
 .header-img {
-    width: 100%;
-    padding: 2rem 4rem 0;
+    width: 75%;
+    padding: 2rem 4rem;
 }
 
 /* main */
