@@ -180,6 +180,13 @@ header {
     color: var(--primary-color);
 }
 
+.mc-hotmart-img {
+    width: 100%;
+    max-width: 30.7rem;
+    max-height: 3.9rem;
+    margin: 0 auto;
+}
+
 .payment-box {
     display: flex;
     flex-direction: column;
