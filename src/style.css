@@ -59,7 +59,7 @@ header {
     width: 75%;
     max-width: 38.4rem;
     max-height: 25.8rem;
-    padding: 2rem 4rem;
+    padding: 2rem 4rem 1rem;
 }
 
 /* main */
@@ -204,6 +204,16 @@ header {
 
 .payment-btn span {
     font-size: 1.6rem;
+}
+
+.login {
+    text-align: center;
+    text-transform: uppercase;
+    color: #66a3e0;
+    line-height: 2.2rem;
+    padding: 1rem 2rem;
+    display: block;
+    font-size: 1.2rem;
 }
 
 /**/
